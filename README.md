@@ -1,16 +1,39 @@
 ## Hi there 👋
 
-<!--
-**hashgit/hashgit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a **Lead Engineer** specialising in building **AI agents** and agentic systems. I'm passionate about 0→1 product development and designing intelligent, scalable solutions that push the boundaries of what AI can do.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🤖 What I Do
+
+- Build and architect **AI agents** and agentic AI systems
+- Design **end-to-end intelligent applications** powered by LLMs
+- Lead engineering teams from zero to production
+
+---
+
+### 🛠️ Technical Skills
+
+**Languages**
+- TypeScript · Python · JavaScript · C# (.NET Core)
+
+**AI & Machine Learning**
+- AI Agents · Agentic AI · Large Language Models (LLMs) · Prompt Engineering · RAG (Retrieval-Augmented Generation)
+
+**Cloud & Infrastructure**
+- AWS (Lambda, S3, RDS, Cognito, Serverless) · Azure
+
+**Frameworks & Libraries**
+- Node.js · React · React Native · Express.js · Vue.js
+
+**Architecture & Practices**
+- Microservices · Serverless Architecture · REST APIs · Design Patterns (Strategy, Factory)
+
+**Security & Compliance**
+- ISO 27001 · SOC 2
+
+---
+
+### 📫 Connect with me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-in%2Fimadh-blue?logo=linkedin)](https://linkedin.com/in/imadh)
